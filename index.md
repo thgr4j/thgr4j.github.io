@@ -6,7 +6,7 @@ title: Theo Pavlic
 
 # Theo Pavlic
 
-Fullstack-Entwickler & DevOps Engineer  
+DevOps Engineer  
 
 <div id="webaddress">
     <a href="https://www.linkedin.com/in/theo-grigor-313167198">
@@ -30,7 +30,7 @@ Fullstack-Entwickler & DevOps Engineer
 ## Work experience
 
 `since 05.2025`
-__DevOps Engineer__  
+__DevOps Engineer, Provider Manager__  
 
 - Concordia Versicherungsgesellschaft auf Gegenseitigkeit  
   - <p class="job-desc">Building AWS cloud infrastructure to drive transformation toward standard software; managing environments (planning, automation, monitoring, operations), deployments and configuration management; leading provider management including external IT vendors, order and release management, SLA governance, and stakeholder coordination.</p>
@@ -59,9 +59,9 @@ __Working student__
 - __DevOps__
   - <span class="blue">Integration:</span> Azure DevOps, Gitlab CI, Bamboo
   - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD
-  - <span class="blue">Monitoring:</span> Grafana, Loki, Prometheus, Pyroscope
+  - <span class="blue">Monitoring:</span> Grafana Loki, Pyroscope, Tempo, Prometheus
 - __Cloud__
-  - <span class="blue">AWS:</span> EKS, EC2, RDS & Aurora, CloudWatch
+  - <span class="blue">AWS:</span> EKS, EC2, RDS & Aurora, S3, VPC, CloudWatch
   - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
 - __Tech__
   - <span class="blue">IaC:</span> Helm, Terraform, Kustomize
