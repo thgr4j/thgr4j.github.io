@@ -1,10 +1,10 @@
 ---
 layout: cv
-title: Theo Grigor
+title: Theo Pavlic
 ---
-![Theo Grigor](/assets/football.jpg)  
+![Theo Pavlic](/assets/football.jpg)  
 
-# Theo Grigor
+# Theo Pavlic
 
 Fullstack-Entwickler & DevOps Engineer  
 
@@ -27,79 +27,75 @@ Fullstack-Entwickler & DevOps Engineer
     </a>
 </div>
 
-## Berufserfahrung
+## Work experience
 
-`seit 09.2023`
+`since 05.2025`
+__DevOps Engineer__  
+
+- Concordia Versicherungsgesellschaft auf Gegenseitigkeit  
+  - <p class="job-desc">Building AWS cloud infrastructure to drive transformation toward standard software; managing environments (planning, automation, monitoring, operations), deployments and configuration management; leading provider management including external IT vendors, order and release management, SLA governance, and stakeholder coordination.</p>
+
+`09.2023-05.2025`
 __Software Developer, DevOps Engineer__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Derzeit arbeite ich in einem Greenfield-Projekt im Bereich Nachhaltigkeit, in dem ich sowohl als Fullstack-Entwickler (Spring Boot, Quarkus, React) als auch als DevOps Engineer tätig bin. Im DevOps-Bereich entwickle ich CI/CD-Pipelines auf Bamboo und Bitbucket zur Automatisierung von Test-, Deployment- und Release-Prozessen. Zudem setze ich Kubernetes und Helm Charts für das Container-Management ein und manage die Cloud-Infrastruktur auf Microsoft Azure.</p>
+  - <p class="job-desc">Worked on a greenfield sustainability project as Full-Stack Developer (Spring Boot, Quarkus, React) and DevOps Engineer; built CI/CD pipelines with Bamboo and Bitbucket; automated testing, deployment, and releases; managed containers with Kubernetes and Helm Charts; administered Microsoft Azure cloud infrastructure.</p>
 
-`seit 09.2023`
-__Mentor für Nachwuchskräfte__  
+`09.2023-05.2025`
+__Mentoring of interns & students__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Betreuung von Praktikant:innen und Studierenden, inklusive fachlicher Unterstützung, Koordination administrativer Prozesse und Zusammenarbeit mit internen Abteilungen.</p>
+  - <p class="job-desc">Supporting interns and students, including providing technical assistance, coordinating administrative processes, and collaborating with internal departments.</p>
 
 
 `01.2023-09.2023`
-__Werkstudent__  
+__Working student__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Fullstack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</p>
+  - <p class="job-desc">Full-stack development in digitization projects (Spring Boot, Angular).</p>
 
 ## Skills
 
+- __DevOps__
+  - <span class="blue">Integration:</span> Azure DevOps, Gitlab CI, Bamboo
+  - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD
+  - <span class="blue">Monitoring:</span> Grafana, Loki, Prometheus, Pyroscope
+- __Cloud__
+  - <span class="blue">AWS:</span> EKS, EC2, RDS & Aurora, CloudWatch
+  - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
 - __Tech__
+  - <span class="blue">IaC:</span> Helm, Terraform, Kustomize
   - <span class="blue">Backend:</span> Python, Java, Spring Boot, Quarkus
   - <span class="blue">DB:</span> MySQL, PostgreSQL, MongoDB
   - <span class="blue">Frontend:</span> React, Angular, Thymeleaf, HTMX
   - <span class="blue">Styling:</span> SCSS, PrimeReact, Tailwind CSS, Bootstrap
-- __DevOps__
-  - <span class="blue">Integration:</span> Gitlab CI, Bamboo
-  - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD, Helm Charts
-- __Cloud__
-  - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
 - __Testing__
-  - Testgetriebene Entwicklung (TDD)
+  - Test-driven development
   - <span class="blue">Frontend:</span> Cypress (Component), Playwright (E2E), Vitest
   - <span class="blue">Backend:</span> jUnit, Testcontainers
 - __Soft Skills__
-  - Agile Leadership & Mentoring
-  - Flexibilität & Stressresistenz
-  - Strategisches Denken
-- __Weitere Kompetenzen__
-  - <span class="blue">Sprachen:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
-  - <span class="blue">Kollaboration:</span> Scrum, Jira, Miro, Figma
-  - <span class="blue">Betriebssysteme:</span> Linux (Debian & RHEL), macOS, Windows
+  - Agile leadership & mentoring
+  - Flexibility & stress tolerance
+  - Strategic thinking
+- __Additional skills__
+  - <span class="blue">Languages:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
+  - <span class="blue">Collaboration:</span> Scrum, Jira, Miro, Figma
+  - <span class="blue">Operating systems:</span> Linux (Debian, RHEL, Arch), macOS, Windows
 
 ## Bildung
 
 `10.2019-07.2024`
-__Wirtschaftsinformatik B.Sc.__  
+__Business informatics B.Sc.__  
 
 - Georg-August-Universität Göttingen
 
-## Zertifikate
+## Certificates
 
 `09.2021`
 __Business English C1.2__  
 
 - Georg-August-Universität Göttingen
 
-## Engagement
-
-`03.2017-12.2024`
-__Ehrenamtliches Vorstandsmitglied__  
-
-- VisioNachhilfe e.V.  
-  - <span class="job-desc">Gemeinnütziger Verein für innerschulische Nachhilfe</span>
-
-`04.2015-06.2019`
-__Nachhilfelehrer__  
-
-- VisioNachhilfe e.V.
-
 <!-- ### Footer
 
-Last updated: Dec 2024 -->
+Last updated: Feb 2026 -->
