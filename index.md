@@ -27,69 +27,67 @@ DevOps Engineer
     </a>
 </div>
 
-## Work experience
+## Berufserfahrung
 
-`since 05.2025`
-__DevOps Engineer, Provider Manager__  
+`seit 05.2025`
+__DevOps & Cloud Engineer, Provider Manager__  
 
 - Concordia Versicherungsgesellschaft auf Gegenseitigkeit  
-  - <p class="job-desc">Building AWS cloud infrastructure to drive transformation toward standard software; managing environments (planning, automation, monitoring, operations), deployments and configuration management; leading provider management including external IT vendors, order and release management, SLA governance, and stakeholder coordination.</p>
+  - <p class="job-desc">Verantwortliche Leitung des Aufbaus einer AWS-Cloud-Infrastruktur im Rahmen einer unternehmensweiten Standardsoftware-Transformation; Steuerung von Planung, Automatisierung und Betrieb komplexer IT-Umgebungen; übergreifende Koordination interner und externer Stakeholder sowie Lieferantenmanagement mit Fokus auf SLA-Einhaltung und Release-Qualität.</p>
 
 `09.2023-05.2025`
 __Software Developer, DevOps Engineer__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Worked on a greenfield sustainability project as Full-Stack Developer (Spring Boot, Quarkus, React) and DevOps Engineer; built CI/CD pipelines with Bamboo and Bitbucket; automated testing, deployment, and releases; managed containers with Kubernetes and Helm Charts; administered Microsoft Azure cloud infrastructure.</p>
+  - <p class="job-desc">Entwicklung einer Traceability-Lösung für Automotive-Materialien (Bill of Materials, Substanz-Compliance) zur Sicherstellung gesetzlicher Anforderungen entlang der Lieferkette; Full-Stack- (Spring Boot, Quarkus, React) und DevOps-Verantwortung in einem greenfield Projekt; Implementierung durchgängiger CI/CD-Pipelines (Bamboo, Bitbucket) mit automatisierten Tests und Releases; Container-Management via Kubernetes & Helm sowie Betreuung der Microsoft Azure-Infrastruktur.</p>
 
 `09.2023-05.2025`
-__Mentoring of interns & students__  
+__Mentoring von Praktikant:innen und Studierende__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Supporting interns and students, including providing technical assistance, coordinating administrative processes, and collaborating with internal departments.</p>
+  - <p class="job-desc">Unterstützung von Praktikant:innen und Studierenden, einschließlich technischer Unterstützung, Koordination administrativer Abläufe und Zusammenarbeit mit internen Abteilungen.</p>
 
 
 `01.2023-09.2023`
-__Working student__  
+__Werkstudent__  
 
 - Bredex GmbH  
-  - <p class="job-desc">Full-stack development in digitization projects (Spring Boot, Angular).</p>
+  - <p class="job-desc">Full-Stack-Entwicklung in Digitalisierungsprojekten (Spring Boot, Angular).</p>
 
 ## Skills
 
-- __DevOps__
-  - <span class="blue">Integration:</span> Azure DevOps, Gitlab CI, Bamboo
-  - <span class="blue">Delivery:</span> Kubernetes, Docker, ArgoCD
-  - <span class="blue">Monitoring:</span> Grafana Loki, Pyroscope, Tempo, Prometheus
-- __Cloud__
-  - <span class="blue">AWS:</span> EKS, EC2, RDS & Aurora, S3, VPC, CloudWatch
-  - <span class="blue">Azure:</span> AKS, Blob Storage, Monitoring
-- __Tech__
-  - <span class="blue">IaC:</span> Helm, Terraform, Kustomize
-  - <span class="blue">Backend:</span> Python, Java, Spring Boot, Quarkus
-  - <span class="blue">DB:</span> MySQL, PostgreSQL, MongoDB
-  - <span class="blue">Frontend:</span> React, Angular, Thymeleaf, HTMX
-  - <span class="blue">Styling:</span> SCSS, PrimeReact, Tailwind CSS, Bootstrap
-- __Testing__
-  - Test-driven development
-  - <span class="blue">Frontend:</span> Cypress (Component), Playwright (E2E), Vitest
-  - <span class="blue">Backend:</span> jUnit, Testcontainers
+- __Produktmanagement & Agilität__
+  - <span class="blue">Methoden:</span> Scrum, User Story Mapping, Backlog-Priorisierung, Epics & Sprint Planning
+  - <span class="blue">Tools:</span> Jira, Confluence, Miro, Figma
+  - <span class="blue">Kollaboration:</span> Stakeholder-Management, crossfunktionale Teamarbeit, Moderation
+
+- __Technisches Verständnis__
+  - <span class="blue">Architektur:</span> Microservices, REST-APIs, Cloud-native Systeme
+  - <span class="blue">Cloud:</span> AWS (EKS, EC2, RDS, S3), Azure (AKS, Blob Storage)
+  - <span class="blue">DevOps:</span> Kubernetes, Docker, CI/CD-Pipelines (Bamboo, GitLab CI, Azure DevOps)
+
+- __Anforderungsmanagement & Delivery__
+  - <span class="blue">Release-Koordination:</span> Release- & Deployment-Management, SLA-Steuerung
+  - <span class="blue">Qualitätssicherung:</span> Testautomatisierung, TDD, Performance-Monitoring (Grafana, Prometheus)
+
 - __Soft Skills__
-  - Agile leadership & mentoring
-  - Flexibility & stress tolerance
-  - Strategic thinking
-- __Additional skills__
-  - <span class="blue">Languages:</span> Englisch (fließend), Deutsch & Französisch (bilingual)
-  - <span class="blue">Collaboration:</span> Scrum, Jira, Miro, Figma
-  - <span class="blue">Operating systems:</span> Linux (Debian, RHEL, Arch), macOS, Windows
+  - Agile Leadership & Mentoring
+  - Strategisches Denken & Priorisierung unter Komplexität
+  - Kommunikationsstärke & Stressresistenz
+
+- __Weitere Kenntnisse__
+  - <span class="blue">Sprachen:</span> Deutsch & Französisch (bilingual), Englisch (fließend)
+  - <span class="blue">Betriebssysteme:</span> Linux, macOS, Windows
+
 
 ## Bildung
 
 `10.2019-07.2024`
-__Business informatics B.Sc.__  
+__Wirtschaftsinformatik B.Sc.__  
 
 - Georg-August-Universität Göttingen
 
-## Certificates
+## Zertifikate
 
 `09.2021`
 __Business English C1.2__  
@@ -98,4 +96,4 @@ __Business English C1.2__
 
 <!-- ### Footer
 
-Last updated: Feb 2026 -->
+Last updated: Jun 2026 -->
